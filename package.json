@@ -1,0 +1,26 @@
+{
+  "name": "dislyte-tier-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "next": "^12.1.6",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preschian/dislyte-tier-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/preschian/dislyte-tier-list/issues"
+  },
+  "homepage": "https://github.com/preschian/dislyte-tier-list#readme"
+}
