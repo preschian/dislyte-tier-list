@@ -1,0 +1,1427 @@
+{
+  "Gabrielle": {
+    "esper": {
+      "name": "Gabrielle",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Gabrielle-Icon.png.webp"
+    },
+    "esperName": "Gabrielle",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Gabrielle-Icon.png.webp",
+    "overall": 0,
+    "story": 1,
+    "cube": 0,
+    "kronos": 5,
+    "apep": 1,
+    "fafnir": 0,
+    "temporalTower": 0,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Support"
+  },
+  "Unas": {
+    "esper": {
+      "name": "Unas",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Unas.png.webp"
+    },
+    "esperName": "Unas",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Unas.png.webp",
+    "overall": 0,
+    "story": 0,
+    "cube": 0,
+    "kronos": 1,
+    "apep": 4,
+    "fafnir": 2,
+    "temporalTower": 0,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Support"
+  },
+  "Sally": {
+    "esper": {
+      "name": "Sally",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Sally-Icon.png.webp"
+    },
+    "esperName": "Sally",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Sally-Icon.png.webp",
+    "overall": 0,
+    "story": 2,
+    "cube": 0,
+    "kronos": 8,
+    "apep": 0,
+    "fafnir": 1,
+    "temporalTower": 0,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Support"
+  },
+  "Clara": {
+    "esper": {
+      "name": "Clara",
+      "image": "https://www.game.guide/wp-content/uploads/2022/05/Clara.png.webp"
+    },
+    "esperName": "Clara",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/05/Clara.png.webp",
+    "overall": 1,
+    "story": 2,
+    "cube": 0,
+    "kronos": 7,
+    "apep": 1,
+    "fafnir": 7,
+    "temporalTower": 0,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Support"
+  },
+  "Lucas": {
+    "esper": {
+      "name": "Lucas",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Lucas.png.webp"
+    },
+    "esperName": "Lucas",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Lucas.png.webp",
+    "overall": 1,
+    "story": 2,
+    "cube": 0,
+    "kronos": 1,
+    "apep": 11,
+    "fafnir": 8,
+    "temporalTower": 0,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Controller"
+  },
+  "Lin Xiao": {
+    "esper": {
+      "name": "Lin Xiao",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Lin-Xiao-Icon.png.webp"
+    },
+    "esperName": "Lin Xiao",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Lin-Xiao-Icon.png.webp",
+    "overall": 1,
+    "story": 0,
+    "cube": 1,
+    "kronos": 0,
+    "apep": 0,
+    "fafnir": 13,
+    "temporalTower": 0,
+    "pointWarDef": 3,
+    "pointWarAtk": 0,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Fabrice": {
+    "esper": {
+      "name": "Fabrice",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Faery-Icon.png.webp"
+    },
+    "esperName": "Fabrice",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Faery-Icon.png.webp",
+    "overall": 1,
+    "story": 4,
+    "cube": 2,
+    "kronos": 9,
+    "apep": 1,
+    "fafnir": 4,
+    "temporalTower": 4,
+    "pointWarDef": 4,
+    "pointWarAtk": 1,
+    "star": "4",
+    "role": "Support"
+  },
+  "Helena": {
+    "esper": {
+      "name": "Helena",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Helena-Icon.png.webp"
+    },
+    "esperName": "Helena",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Helena-Icon.png.webp",
+    "overall": 13,
+    "story": 8,
+    "cube": 12,
+    "kronos": 8,
+    "apep": 11,
+    "fafnir": 13,
+    "temporalTower": 12,
+    "pointWarDef": 13,
+    "pointWarAtk": 13,
+    "star": "3",
+    "role": "Support"
+  },
+  "Kara": {
+    "esper": {
+      "name": "Kara",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Kara-Icon.png.webp"
+    },
+    "esperName": "Kara",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Kara-Icon.png.webp",
+    "overall": 13,
+    "story": 9,
+    "cube": 10,
+    "kronos": 14,
+    "apep": 9,
+    "fafnir": 14,
+    "temporalTower": 12,
+    "pointWarDef": 13,
+    "pointWarAtk": 13,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Layla": {
+    "esper": {
+      "name": "Layla",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Lulu-Icon.png.webp"
+    },
+    "esperName": "Layla",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Lulu-Icon.png.webp",
+    "overall": 13,
+    "story": 13,
+    "cube": 10,
+    "kronos": 14,
+    "apep": 9,
+    "fafnir": 13,
+    "temporalTower": 13,
+    "pointWarDef": 14,
+    "pointWarAtk": 13,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "David": {
+    "esper": {
+      "name": "David",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/David-Icon.png.webp"
+    },
+    "esperName": "David",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/David-Icon.png.webp",
+    "overall": 13,
+    "story": 14,
+    "cube": 14,
+    "kronos": 14,
+    "apep": 14,
+    "fafnir": 13,
+    "temporalTower": 14,
+    "pointWarDef": 12,
+    "pointWarAtk": 12,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Djoser": {
+    "esper": {
+      "name": "Djoser",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Djoser.png.webp"
+    },
+    "esperName": "Djoser",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Djoser.png.webp",
+    "overall": 10,
+    "story": 8,
+    "cube": 7,
+    "kronos": 7,
+    "apep": 5,
+    "fafnir": 13,
+    "temporalTower": 8,
+    "pointWarDef": 8,
+    "pointWarAtk": 8,
+    "star": "4",
+    "role": "Defender"
+  },
+  "Zelmer": {
+    "esper": {
+      "name": "Zelmer",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Zelmer-Icon.png.webp"
+    },
+    "esperName": "Zelmer",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Zelmer-Icon.png.webp",
+    "overall": 10,
+    "story": 11,
+    "cube": 8,
+    "kronos": 11,
+    "apep": 4,
+    "fafnir": 3,
+    "temporalTower": 11,
+    "pointWarDef": 12,
+    "pointWarAtk": 12,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Anesidora": {
+    "esper": {
+      "name": "Anesidora",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Anesidora.png.webp"
+    },
+    "esperName": "Anesidora",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Anesidora.png.webp",
+    "overall": 10,
+    "story": 8,
+    "cube": 0,
+    "kronos": 14,
+    "apep": 14,
+    "fafnir": 14,
+    "temporalTower": 0,
+    "pointWarDef": 7,
+    "pointWarAtk": 4,
+    "star": "4",
+    "role": "Support"
+  },
+  "Falken": {
+    "esper": {
+      "name": "Falken",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Falken-Icon.png.webp"
+    },
+    "esperName": "Falken",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Falken-Icon.png.webp",
+    "overall": 10,
+    "story": 3,
+    "cube": 3,
+    "kronos": 12,
+    "apep": 11,
+    "fafnir": 13,
+    "temporalTower": 4,
+    "pointWarDef": 6,
+    "pointWarAtk": 8,
+    "star": "4",
+    "role": "Defender"
+  },
+  "Jacob": {
+    "esper": {
+      "name": "Jacob",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Jacob-Icon.png.webp"
+    },
+    "esperName": "Jacob",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Jacob-Icon.png.webp",
+    "overall": 10,
+    "story": 7,
+    "cube": 3,
+    "kronos": 13,
+    "apep": 0,
+    "fafnir": 13,
+    "temporalTower": 8,
+    "pointWarDef": 11,
+    "pointWarAtk": 11,
+    "star": "4",
+    "role": "Controller"
+  },
+  "Jiang Man": {
+    "esper": {
+      "name": "Jiang Man",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Jiang-Man-Icon.png.webp"
+    },
+    "esperName": "Jiang Man",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Jiang-Man-Icon.png.webp",
+    "overall": 10,
+    "story": 3,
+    "cube": 5,
+    "kronos": 10,
+    "apep": 14,
+    "fafnir": 13,
+    "temporalTower": 4,
+    "pointWarDef": 9,
+    "pointWarAtk": 4,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Xie Yuzhi (without Xie Chuyi)": {
+    "esper": {
+      "name": "Xie Yuzhi (without Xie Chuyi)",
+      "image": "https://www.game.guide/wp-content/uploads/2022/05/Xie-Yuzhi.png.webp"
+    },
+    "esperName": "Xie Yuzhi (without Xie Chuyi)",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/05/Xie-Yuzhi.png.webp",
+    "overall": 10,
+    "story": 7,
+    "cube": 6,
+    "kronos": 9,
+    "apep": 12,
+    "fafnir": 9,
+    "temporalTower": 7,
+    "pointWarDef": 9,
+    "pointWarAtk": 9,
+    "star": "4",
+    "role": "Controller"
+  },
+  "Chalmers": {
+    "esper": {
+      "name": "Chalmers",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Chalmers-Icon.png.webp"
+    },
+    "esperName": "Chalmers",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Chalmers-Icon.png.webp",
+    "overall": 10,
+    "story": 14,
+    "cube": 5,
+    "kronos": 1,
+    "apep": 1,
+    "fafnir": 13,
+    "temporalTower": 7,
+    "pointWarDef": 14,
+    "pointWarAtk": 14,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Luo Yan": {
+    "esper": {
+      "name": "Luo Yan",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Luo-Yan-Icon.png.webp"
+    },
+    "esperName": "Luo Yan",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Luo-Yan-Icon.png.webp",
+    "overall": 10,
+    "story": 8,
+    "cube": 1,
+    "kronos": 14,
+    "apep": 14,
+    "fafnir": 14,
+    "temporalTower": 2,
+    "pointWarDef": 7,
+    "pointWarAtk": 6,
+    "star": "4",
+    "role": "Support"
+  },
+  "Taylor": {
+    "esper": {
+      "name": "Taylor",
+      "image": "https://www.game.guide/wp-content/uploads/2022/05/Taylor.png.webp"
+    },
+    "esperName": "Taylor",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/05/Taylor.png.webp",
+    "overall": 10,
+    "story": 8,
+    "cube": 7,
+    "kronos": 11,
+    "apep": 11,
+    "fafnir": 14,
+    "temporalTower": 8,
+    "pointWarDef": 6,
+    "pointWarAtk": 4,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Kaylee": {
+    "esper": {
+      "name": "Kaylee",
+      "image": "https://www.game.guide/wp-content/uploads/2022/05/Kaylee.png.webp"
+    },
+    "esperName": "Kaylee",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/05/Kaylee.png.webp",
+    "overall": 10,
+    "story": 9,
+    "cube": 8,
+    "kronos": 7,
+    "apep": 13,
+    "fafnir": 12,
+    "temporalTower": 9,
+    "pointWarDef": 8,
+    "pointWarAtk": 7,
+    "star": "4",
+    "role": "Controller"
+  },
+  "Bai Liuli": {
+    "esper": {
+      "name": "Bai Liuli",
+      "image": "https://www.game.guide/wp-content/uploads/2022/05/Bai-Liuli.png.webp"
+    },
+    "esperName": "Bai Liuli",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/05/Bai-Liuli.png.webp",
+    "overall": 10,
+    "story": 9,
+    "cube": 10,
+    "kronos": 11,
+    "apep": 8,
+    "fafnir": 11,
+    "temporalTower": 11,
+    "pointWarDef": 10,
+    "pointWarAtk": 9,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Alexa": {
+    "esper": {
+      "name": "Alexa",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Eunice-Icon.png.webp"
+    },
+    "esperName": "Alexa",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Eunice-Icon.png.webp",
+    "overall": 10,
+    "story": 8,
+    "cube": 6,
+    "kronos": 13,
+    "apep": 13,
+    "fafnir": 13,
+    "temporalTower": 8,
+    "pointWarDef": 10,
+    "pointWarAtk": 8,
+    "star": "4",
+    "role": "Support"
+  },
+  "Leon": {
+    "esper": {
+      "name": "Leon",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Leon-Icon.png.webp"
+    },
+    "esperName": "Leon",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Leon-Icon.png.webp",
+    "overall": 10,
+    "story": 12,
+    "cube": 7,
+    "kronos": 3,
+    "apep": 10,
+    "fafnir": 13,
+    "temporalTower": 9,
+    "pointWarDef": 13,
+    "pointWarAtk": 13,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Li Ao": {
+    "esper": {
+      "name": "Li Ao",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Li-Ao-Icon.png.webp"
+    },
+    "esperName": "Li Ao",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Li-Ao-Icon.png.webp",
+    "overall": 10,
+    "story": 10,
+    "cube": 9,
+    "kronos": 14,
+    "apep": 14,
+    "fafnir": 14,
+    "temporalTower": 10,
+    "pointWarDef": 7,
+    "pointWarAtk": 6,
+    "star": "3",
+    "role": "Defender"
+  },
+  "Arcana": {
+    "esper": {
+      "name": "Arcana",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Arcana-Icon.png.webp"
+    },
+    "esperName": "Arcana",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Arcana-Icon.png.webp",
+    "overall": 10,
+    "story": 11,
+    "cube": 9,
+    "kronos": 13,
+    "apep": 14,
+    "fafnir": 13,
+    "temporalTower": 10,
+    "pointWarDef": 8,
+    "pointWarAtk": 7,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Brynn": {
+    "esper": {
+      "name": "Brynn",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Brynn-Icon.png.webp"
+    },
+    "esperName": "Brynn",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Brynn-Icon.png.webp",
+    "overall": 10,
+    "story": 8,
+    "cube": 9,
+    "kronos": 10,
+    "apep": 10,
+    "fafnir": 12,
+    "temporalTower": 12,
+    "pointWarDef": 11,
+    "pointWarAtk": 11,
+    "star": "3",
+    "role": "Support"
+  },
+  "Bardon": {
+    "esper": {
+      "name": "Bardon",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Bardon-Icon.png.webp"
+    },
+    "esperName": "Bardon",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Bardon-Icon.png.webp",
+    "overall": 10,
+    "story": 11,
+    "cube": 11,
+    "kronos": 13,
+    "apep": 12,
+    "fafnir": 13,
+    "temporalTower": 11,
+    "pointWarDef": 8,
+    "pointWarAtk": 10,
+    "star": "3",
+    "role": "Defender"
+  },
+  "Hall": {
+    "esper": {
+      "name": "Hall",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Hall-Icon.png.webp"
+    },
+    "esperName": "Hall",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Hall-Icon.png.webp",
+    "overall": 10,
+    "story": 13,
+    "cube": 13,
+    "kronos": 14,
+    "apep": 11,
+    "fafnir": 4,
+    "temporalTower": 14,
+    "pointWarDef": 14,
+    "pointWarAtk": 14,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Unky Chai": {
+    "esper": {
+      "name": "Unky Chai",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Unky-Chai.png.webp"
+    },
+    "esperName": "Unky Chai",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Unky-Chai.png.webp",
+    "overall": 6,
+    "story": 4,
+    "cube": 3,
+    "kronos": 4,
+    "apep": 4,
+    "fafnir": 10,
+    "temporalTower": 4,
+    "pointWarDef": 8,
+    "pointWarAtk": 6,
+    "star": "3",
+    "role": "Support"
+  },
+  "Lauren": {
+    "esper": {
+      "name": "Lauren",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Lauren.png.webp"
+    },
+    "esperName": "Lauren",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Lauren.png.webp",
+    "overall": 7,
+    "story": 8,
+    "cube": 3,
+    "kronos": 9,
+    "apep": 9,
+    "fafnir": 4,
+    "temporalTower": 3,
+    "pointWarDef": 7,
+    "pointWarAtk": 7,
+    "star": "3",
+    "role": "Support"
+  },
+  "Mona": {
+    "esper": {
+      "name": "Mona",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Mona-Icon.png.webp"
+    },
+    "esperName": "Mona",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Mona-Icon.png.webp",
+    "overall": 7,
+    "story": 0,
+    "cube": 5,
+    "kronos": 4,
+    "apep": 11,
+    "fafnir": 10,
+    "temporalTower": 6,
+    "pointWarDef": 5,
+    "pointWarAtk": 4,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Freddy": {
+    "esper": {
+      "name": "Freddy",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Freddy-Icon.png.webp"
+    },
+    "esperName": "Freddy",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Freddy-Icon.png.webp",
+    "overall": 7,
+    "story": 4,
+    "cube": 5,
+    "kronos": 3,
+    "apep": 3,
+    "fafnir": 14,
+    "temporalTower": 6,
+    "pointWarDef": 7,
+    "pointWarAtk": 4,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Tang Xuan": {
+    "esper": {
+      "name": "Tang Xuan",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Tang-Mei-Icon.png.webp"
+    },
+    "esperName": "Tang Xuan",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Tang-Mei-Icon.png.webp",
+    "overall": 7,
+    "story": 3,
+    "cube": 2,
+    "kronos": 9,
+    "apep": 7,
+    "fafnir": 13,
+    "temporalTower": 4,
+    "pointWarDef": 5,
+    "pointWarAtk": 4,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Biondina": {
+    "esper": {
+      "name": "Biondina",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Biondina.png.webp"
+    },
+    "esperName": "Biondina",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Biondina.png.webp",
+    "overall": 7,
+    "story": 8,
+    "cube": 7,
+    "kronos": 7,
+    "apep": 13,
+    "fafnir": 8,
+    "temporalTower": 6,
+    "pointWarDef": 3,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Melanie": {
+    "esper": {
+      "name": "Melanie",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Melanie-Icon.png.webp"
+    },
+    "esperName": "Melanie",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Melanie-Icon.png.webp",
+    "overall": 7,
+    "story": 4,
+    "cube": 5,
+    "kronos": 1,
+    "apep": 8,
+    "fafnir": 14,
+    "temporalTower": 6,
+    "pointWarDef": 5,
+    "pointWarAtk": 4,
+    "star": "3",
+    "role": "Controller"
+  },
+  "Chang Pu": {
+    "esper": {
+      "name": "Chang Pu",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Chang-pu-Icon.png.webp"
+    },
+    "esperName": "Chang Pu",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Chang-pu-Icon.png.webp",
+    "overall": 7,
+    "story": 4,
+    "cube": 6,
+    "kronos": 8,
+    "apep": 3,
+    "fafnir": 6,
+    "temporalTower": 7,
+    "pointWarDef": 10,
+    "pointWarAtk": 10,
+    "star": "3",
+    "role": "Support"
+  },
+  "Drew": {
+    "esper": {
+      "name": "Drew",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Drew-Icon.png.webp"
+    },
+    "esperName": "Drew",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Drew-Icon.png.webp",
+    "overall": 7,
+    "story": 3,
+    "cube": 7,
+    "kronos": 3,
+    "apep": 3,
+    "fafnir": 13,
+    "temporalTower": 8,
+    "pointWarDef": 10,
+    "pointWarAtk": 3,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Eira": {
+    "esper": {
+      "name": "Eira",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Malin-Icon.png.webp"
+    },
+    "esperName": "Eira",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Malin-Icon.png.webp",
+    "overall": 7,
+    "story": 6,
+    "cube": 2,
+    "kronos": 1,
+    "apep": 8,
+    "fafnir": 14,
+    "temporalTower": 4,
+    "pointWarDef": 7,
+    "pointWarAtk": 7,
+    "star": "4",
+    "role": "Support"
+  },
+  "Dhalia": {
+    "esper": {
+      "name": "Dhalia",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Dhalia.png.webp"
+    },
+    "esperName": "Dhalia",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Dhalia.png.webp",
+    "overall": 7,
+    "story": 6,
+    "cube": 7,
+    "kronos": 3,
+    "apep": 13,
+    "fafnir": 13,
+    "temporalTower": 4,
+    "pointWarDef": 4,
+    "pointWarAtk": 2,
+    "star": "4",
+    "role": "Support"
+  },
+  "Lu Yi": {
+    "esper": {
+      "name": "Lu Yi",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Lu-Yi-Icon.png.webp"
+    },
+    "esperName": "Lu Yi",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Lu-Yi-Icon.png.webp",
+    "overall": 7,
+    "story": 10,
+    "cube": 8,
+    "kronos": 10,
+    "apep": 9,
+    "fafnir": 0,
+    "temporalTower": 11,
+    "pointWarDef": 11,
+    "pointWarAtk": 9,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Q": {
+    "esper": {
+      "name": "Q",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Q-Icon.png.webp"
+    },
+    "esperName": "Q",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Q-Icon.png.webp",
+    "overall": 7,
+    "story": 8,
+    "cube": 5,
+    "kronos": 4,
+    "apep": 4,
+    "fafnir": 13,
+    "temporalTower": 6,
+    "pointWarDef": 10,
+    "pointWarAtk": 8,
+    "star": "3",
+    "role": "Support"
+  },
+  "Laura": {
+    "esper": {
+      "name": "Laura",
+      "image": "https://www.game.guide/wp-content/uploads/2022/06/Laura.png.webp"
+    },
+    "esperName": "Laura",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/06/Laura.png.webp",
+    "overall": 7,
+    "story": 10,
+    "cube": 10,
+    "kronos": 10,
+    "apep": 10,
+    "fafnir": 10,
+    "temporalTower": 1,
+    "pointWarDef": 1,
+    "pointWarAtk": 1,
+    "star": "4",
+    "role": "Support"
+  },
+  "Ollie": {
+    "esper": {
+      "name": "Ollie",
+      "image": "https://www.game.guide/wp-content/uploads/2022/06/Ollie.png.webp"
+    },
+    "esperName": "Ollie",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/06/Ollie.png.webp",
+    "overall": 7,
+    "story": 4,
+    "cube": 4,
+    "kronos": 10,
+    "apep": 10,
+    "fafnir": 10,
+    "temporalTower": 7,
+    "pointWarDef": 4,
+    "pointWarAtk": 4,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Meredith": {
+    "esper": {
+      "name": "Meredith",
+      "image": "https://www.game.guide/wp-content/uploads/2022/06/Meredith.png.webp"
+    },
+    "esperName": "Meredith",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/06/Meredith.png.webp",
+    "overall": 7,
+    "story": 10,
+    "cube": 7,
+    "kronos": 10,
+    "apep": 10,
+    "fafnir": 10,
+    "temporalTower": 7,
+    "pointWarDef": 4,
+    "pointWarAtk": 4,
+    "star": "4",
+    "role": "Support"
+  },
+  "Cecilia": {
+    "esper": {
+      "name": "Cecilia",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Cecilia.png.webp"
+    },
+    "esperName": "Cecilia",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Cecilia.png.webp",
+    "overall": 7,
+    "story": 7,
+    "cube": 6,
+    "kronos": 10,
+    "apep": 7,
+    "fafnir": 13,
+    "temporalTower": 7,
+    "pointWarDef": 7,
+    "pointWarAtk": 4,
+    "star": "5",
+    "role": "Support"
+  },
+  "Xie Chuyi (without Xie Yuzhi)": {
+    "esper": {
+      "name": "Xie Chuyi (without Xie Yuzhi)",
+      "image": "https://www.game.guide/wp-content/uploads/2022/05/Xie-Chuyi.png.webp"
+    },
+    "esperName": "Xie Chuyi (without Xie Yuzhi)",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/05/Xie-Chuyi.png.webp",
+    "overall": 7,
+    "story": 6,
+    "cube": 6,
+    "kronos": 7,
+    "apep": 12,
+    "fafnir": 8,
+    "temporalTower": 7,
+    "pointWarDef": 8,
+    "pointWarAtk": 6,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Chloe": {
+    "esper": {
+      "name": "Chloe",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Coco-Icon.png.webp"
+    },
+    "esperName": "Chloe",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Coco-Icon.png.webp",
+    "overall": 3,
+    "story": 3,
+    "cube": 3,
+    "kronos": 1,
+    "apep": 2,
+    "fafnir": 8,
+    "temporalTower": 3,
+    "pointWarDef": 4,
+    "pointWarAtk": 1,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Catherine": {
+    "esper": {
+      "name": "Catherine",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Catherine-Icon.png.webp"
+    },
+    "esperName": "Catherine",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Catherine-Icon.png.webp",
+    "overall": 3,
+    "story": 7,
+    "cube": 3,
+    "kronos": 10,
+    "apep": 6,
+    "fafnir": 1,
+    "temporalTower": 4,
+    "pointWarDef": 1,
+    "pointWarAtk": 2,
+    "star": "4",
+    "role": "Support"
+  },
+  "Li Ling": {
+    "esper": {
+      "name": "Li Ling",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Li-Ling-Icon.png.webp"
+    },
+    "esperName": "Li Ling",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Li-Ling-Icon.png.webp",
+    "overall": 3,
+    "story": 0,
+    "cube": 1,
+    "kronos": 1,
+    "apep": 8,
+    "fafnir": 7,
+    "temporalTower": 1,
+    "pointWarDef": 4,
+    "pointWarAtk": 1,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Ye Suhua": {
+    "esper": {
+      "name": "Ye Suhua",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Ye-Suhua-Icon.png.webp"
+    },
+    "esperName": "Ye Suhua",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Ye-Suhua-Icon.png.webp",
+    "overall": 3,
+    "story": 1,
+    "cube": 3,
+    "kronos": 1,
+    "apep": 2,
+    "fafnir": 10,
+    "temporalTower": 1,
+    "pointWarDef": 3,
+    "pointWarAtk": 3,
+    "star": "3",
+    "role": "Support"
+  },
+  "Narmer": {
+    "esper": {
+      "name": "Narmer",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Narmer-Icon.png.webp"
+    },
+    "esperName": "Narmer",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Narmer-Icon.png.webp",
+    "overall": 3,
+    "story": 5,
+    "cube": 1,
+    "kronos": 3,
+    "apep": 3,
+    "fafnir": 13,
+    "temporalTower": 1,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Donar": {
+    "esper": {
+      "name": "Donar",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Donar.png.webp"
+    },
+    "esperName": "Donar",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Donar.png.webp",
+    "overall": 3,
+    "story": 3,
+    "cube": 2,
+    "kronos": 5,
+    "apep": 8,
+    "fafnir": 8,
+    "temporalTower": 3,
+    "pointWarDef": 0,
+    "pointWarAtk": 1,
+    "star": "5",
+    "role": "Defender"
+  },
+  "Asenath": {
+    "esper": {
+      "name": "Asenath",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Asenath.png.webp"
+    },
+    "esperName": "Asenath",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Asenath.png.webp",
+    "overall": 3,
+    "story": 3,
+    "cube": 3,
+    "kronos": 4,
+    "apep": 7,
+    "fafnir": 10,
+    "temporalTower": 4,
+    "pointWarDef": 3,
+    "pointWarAtk": 3,
+    "star": "4",
+    "role": "Support"
+  },
+  "Tiye": {
+    "esper": {
+      "name": "Tiye",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Tiye.png.webp"
+    },
+    "esperName": "Tiye",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Tiye.png.webp",
+    "overall": 4,
+    "story": 3,
+    "cube": 2,
+    "kronos": 2,
+    "apep": 7,
+    "fafnir": 13,
+    "temporalTower": 0,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Controller"
+  },
+  "Hyde": {
+    "esper": {
+      "name": "Hyde",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Hyde-Icon.png.webp"
+    },
+    "esperName": "Hyde",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Hyde-Icon.png.webp",
+    "overall": 4,
+    "story": 7,
+    "cube": 3,
+    "kronos": 13,
+    "apep": 3,
+    "fafnir": 3,
+    "temporalTower": 6,
+    "pointWarDef": 2,
+    "pointWarAtk": 2,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Sienna": {
+    "esper": {
+      "name": "Sienna",
+      "image": "https://www.game.guide/wp-content/uploads/2022/05/Sienna.png.webp"
+    },
+    "esperName": "Sienna",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/05/Sienna.png.webp",
+    "overall": 4,
+    "story": 2,
+    "cube": 1,
+    "kronos": 9,
+    "apep": 8,
+    "fafnir": 11,
+    "temporalTower": 0,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Support"
+  },
+  "Tang Yun": {
+    "esper": {
+      "name": "Tang Yun",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Tang-Yun-Icon.png.webp"
+    },
+    "esperName": "Tang Yun",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Tang-Yun-Icon.png.webp",
+    "overall": 4,
+    "story": 5,
+    "cube": 2,
+    "kronos": 9,
+    "apep": 7,
+    "fafnir": 0,
+    "temporalTower": 1,
+    "pointWarDef": 10,
+    "pointWarAtk": 4,
+    "star": "3",
+    "role": "Fighter"
+  },
+  "Triki": {
+    "esper": {
+      "name": "Triki",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Triki-Icon.png.webp"
+    },
+    "esperName": "Triki",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Triki-Icon.png.webp",
+    "overall": 4,
+    "story": 7,
+    "cube": 0,
+    "kronos": 14,
+    "apep": 13,
+    "fafnir": 4,
+    "temporalTower": 1,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Controller"
+  },
+  "Long Mian": {
+    "esper": {
+      "name": "Long Mian",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Long-Mian.png.webp"
+    },
+    "esperName": "Long Mian",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Long-Mian.png.webp",
+    "overall": 4,
+    "story": 1,
+    "cube": 1,
+    "kronos": 8,
+    "apep": 10,
+    "fafnir": 10,
+    "temporalTower": 1,
+    "pointWarDef": 1,
+    "pointWarAtk": 0,
+    "star": "4",
+    "role": "Controller"
+  },
+  "Raven": {
+    "esper": {
+      "name": "Raven",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Raven-Icon.png.webp"
+    },
+    "esperName": "Raven",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Raven-Icon.png.webp",
+    "overall": 4,
+    "story": 5,
+    "cube": 0,
+    "kronos": 10,
+    "apep": 11,
+    "fafnir": 8,
+    "temporalTower": 2,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Sander": {
+    "esper": {
+      "name": "Sander",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Sander-Icon.png.webp"
+    },
+    "esperName": "Sander",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Sander-Icon.png.webp",
+    "overall": 4,
+    "story": 5,
+    "cube": 3,
+    "kronos": 0,
+    "apep": 4,
+    "fafnir": 9,
+    "temporalTower": 1,
+    "pointWarDef": 8,
+    "pointWarAtk": 4,
+    "star": "4",
+    "role": "Controller"
+  },
+  "Lewis": {
+    "esper": {
+      "name": "Lewis",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Lewis-Icon.png.webp"
+    },
+    "esperName": "Lewis",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Lewis-Icon.png.webp",
+    "overall": 4,
+    "story": 4,
+    "cube": 2,
+    "kronos": 1,
+    "apep": 1,
+    "fafnir": 13,
+    "temporalTower": 2,
+    "pointWarDef": 7,
+    "pointWarAtk": 4,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Heng Yue": {
+    "esper": {
+      "name": "Heng Yue",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Heng-Yue-Icon.png.webp"
+    },
+    "esperName": "Heng Yue",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Heng-Yue-Icon.png.webp",
+    "overall": 4,
+    "story": 7,
+    "cube": 3,
+    "kronos": 10,
+    "apep": 3,
+    "fafnir": 6,
+    "temporalTower": 3,
+    "pointWarDef": 6,
+    "pointWarAtk": 4,
+    "star": "4",
+    "role": "Support"
+  },
+  "Ren Si": {
+    "esper": {
+      "name": "Ren Si",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Ren-SI-Icon.png.webp"
+    },
+    "esperName": "Ren Si",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Ren-SI-Icon.png.webp",
+    "overall": 4,
+    "story": 3,
+    "cube": 1,
+    "kronos": 7,
+    "apep": 8,
+    "fafnir": 13,
+    "temporalTower": 2,
+    "pointWarDef": 0,
+    "pointWarAtk": 1,
+    "star": "4",
+    "role": "Defender"
+  },
+  "Jeanne": {
+    "esper": {
+      "name": "Jeanne",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Jeanne.png.webp"
+    },
+    "esperName": "Jeanne",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Jeanne.png.webp",
+    "overall": 4,
+    "story": 4,
+    "cube": 4,
+    "kronos": 4,
+    "apep": 14,
+    "fafnir": 4,
+    "temporalTower": 4,
+    "pointWarDef": 4,
+    "pointWarAtk": 3,
+    "star": "3",
+    "role": "Controller"
+  },
+  "Lynn": {
+    "esper": {
+      "name": "Lynn",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Lynn.png.webp"
+    },
+    "esperName": "Lynn",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Lynn.png.webp",
+    "overall": 4,
+    "story": 5,
+    "cube": 6,
+    "kronos": 10,
+    "apep": 4,
+    "fafnir": 1,
+    "temporalTower": 6,
+    "pointWarDef": 8,
+    "pointWarAtk": 6,
+    "star": "4",
+    "role": "Fighter"
+  },
+  "Bonnie": {
+    "esper": {
+      "name": "Bonnie",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Bonnie.png.webp"
+    },
+    "esperName": "Bonnie",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Bonnie.png.webp",
+    "overall": 4,
+    "story": 6,
+    "cube": 4,
+    "kronos": 10,
+    "apep": 11,
+    "fafnir": 9,
+    "temporalTower": 3,
+    "pointWarDef": 0,
+    "pointWarAtk": 0,
+    "star": "4",
+    "role": "Support"
+  },
+  "Tevor": {
+    "esper": {
+      "name": "Tevor",
+      "image": "https://www.game.guide/wp-content/uploads/2022/05/Tevor.png.webp"
+    },
+    "esperName": "Tevor",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/05/Tevor.png.webp",
+    "overall": 4,
+    "story": 4,
+    "cube": 2,
+    "kronos": 8,
+    "apep": 6,
+    "fafnir": 9,
+    "temporalTower": 5,
+    "pointWarDef": 5,
+    "pointWarAtk": 2,
+    "star": "5",
+    "role": "Fighter"
+  },
+  "Nicole": {
+    "esper": {
+      "name": "Nicole",
+      "image": "https://www.game.guide/wp-content/uploads/2022/06/Nicole.png.webp"
+    },
+    "esperName": "Nicole",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/06/Nicole.png.webp",
+    "overall": 4,
+    "story": 7,
+    "cube": 7,
+    "kronos": 7,
+    "apep": 10,
+    "fafnir": 7,
+    "temporalTower": 4,
+    "pointWarDef": 1,
+    "pointWarAtk": 4,
+    "star": "4",
+    "role": "Support"
+  },
+  "Berenice": {
+    "esper": {
+      "name": "Berenice",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Berenice-Icon.png.webp"
+    },
+    "esperName": "Berenice",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Berenice-Icon.png.webp",
+    "overall": 4,
+    "story": 3,
+    "cube": 5,
+    "kronos": 8,
+    "apep": 8,
+    "fafnir": 0,
+    "temporalTower": 6,
+    "pointWarDef": 9,
+    "pointWarAtk": 8,
+    "star": "3",
+    "role": "Support"
+  },
+  "Pritzker": {
+    "esper": {
+      "name": "Pritzker",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Pritzker-Icon.png.webp"
+    },
+    "esperName": "Pritzker",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Pritzker-Icon.png.webp",
+    "overall": 4,
+    "story": 1,
+    "cube": 0,
+    "kronos": 10,
+    "apep": 10,
+    "fafnir": 13,
+    "temporalTower": 0,
+    "pointWarDef": 3,
+    "pointWarAtk": 1,
+    "star": "4",
+    "role": "Controller"
+  },
+  "Jin Yuyao": {
+    "esper": {
+      "name": "Jin Yuyao",
+      "image": "https://www.game.guide/wp-content/uploads/2022/02/Jin-Yuyao.png.webp"
+    },
+    "esperName": "Jin Yuyao",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2022/02/Jin-Yuyao.png.webp",
+    "overall": 4,
+    "story": 8,
+    "cube": 2,
+    "kronos": 11,
+    "apep": 8,
+    "fafnir": 10,
+    "temporalTower": 1,
+    "pointWarDef": 4,
+    "pointWarAtk": 2,
+    "star": "5",
+    "role": "Support"
+  },
+  "Celine": {
+    "esper": {
+      "name": "Celine",
+      "image": "https://www.game.guide/wp-content/uploads/2021/09/Celine-Icon.png.webp"
+    },
+    "esperName": "Celine",
+    "esperImage": "https://www.game.guide/wp-content/uploads/2021/09/Celine-Icon.png.webp",
+    "overall": 4,
+    "story": 3,
+    "cube": 3,
+    "kronos": 3,
+    "apep": 9,
+    "fafnir": 10,
+    "temporalTower": 3,
+    "pointWarDef": 6,
+    "pointWarAtk": 6,
+    "star": "4",
+    "role": "Controller"
+  }
+}
