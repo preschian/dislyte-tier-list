@@ -47,6 +47,7 @@ document.querySelectorAll(".foo_table_39396 tbody tr").forEach((value, key) => {
           name: esperName,
           image: esperImage,
         },
+        esperName,
       };
     } else {
       const tierIndex = tier.indexOf(text);
