@@ -1,4 +1,5 @@
 import { DataGrid } from "@mui/x-data-grid";
+import Image from "next/image";
 
 import { tier } from "../script/scrap";
 import result from "../script/result.json";
@@ -13,10 +14,11 @@ const columns = [
 
       return (
         <>
-          <img
-            style={{ height: 40, marginRight: 8 }}
+          <Image
+            style={{ marginRight: 8 }}
             src={esper.image}
             alt={esper.name}
+            height={40}
           />
           <p>{esper.name}</p>
         </>
