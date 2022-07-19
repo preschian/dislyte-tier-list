@@ -1,4 +1,5 @@
 import { DataGrid } from "@mui/x-data-grid";
+import Image from "next/image";
 
 import { tier } from "../script/scrap";
 import result from "../script/result.json";
@@ -13,12 +14,12 @@ const columns = [
 
       return (
         <>
-          <img
-            style={{ height: 40, marginRight: 8 }}
-            src={esper.image}
-            alt={esper.name}
-          />
-          <p>{esper.name}</p>
+          <div style={{ marginRight: 8 }}>
+            <Image src={esper.image} alt={esper.name} height={40} width={40} />
+          </div>
+
+          {/* remove text between parentheses https://regex101.com/r/ZgviKX/1 */}
+          <p>{esper.name.replace(/ *\([^)]*\) */g, "")}</p>
         </>
       );
     },
