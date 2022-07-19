@@ -995,7 +995,7 @@
       "image": "https://www.game.guide/wp-content/uploads/2022/06/Nicole.png.webp"
     },
     "esperName": "Nicole",
-    "overall": 1,
+    "overall": 0,
     "story": 2,
     "cube": 2,
     "kronos": 2,
@@ -1283,7 +1283,7 @@
       "image": "https://www.game.guide/wp-content/uploads/2022/02/Unas.png.webp"
     },
     "esperName": "Unas",
-    "overall": 1,
+    "overall": 0,
     "story": 1,
     "cube": 1,
     "kronos": 1,
@@ -1312,6 +1312,24 @@
     "pointWarAtk": 6,
     "pointWarRating": "3",
     "star": "Support"
+  },
+  "Xiao Yin": {
+    "esper": {
+      "name": "Xiao Yin",
+      "image": "https://www.game.guide/wp-content/uploads/2022/07/Xiao-Yin.png.webp"
+    },
+    "esperName": "Xiao Yin",
+    "overall": 4,
+    "story": 8,
+    "cube": 3,
+    "kronos": 0,
+    "apep": 12,
+    "fafnir": 2,
+    "temporalTower": 2,
+    "pointWarDef": 6,
+    "pointWarAtk": 4,
+    "pointWarRating": "4",
+    "star": "Fighter"
   },
   "Xie Chuyi (without Xie Yuzhi)": {
     "esper": {
@@ -1383,6 +1401,24 @@
     "pointWarDef": 12,
     "pointWarAtk": 12,
     "pointWarRating": "3",
+    "star": "Fighter"
+  },
+  "Zora": {
+    "esper": {
+      "name": "Zora",
+      "image": "https://www.game.guide/wp-content/uploads/2022/07/Zora.png.webp"
+    },
+    "esperName": "Zora",
+    "overall": 4,
+    "story": 0,
+    "cube": 2,
+    "kronos": 3,
+    "apep": 10,
+    "fafnir": 6,
+    "temporalTower": 1,
+    "pointWarDef": 5,
+    "pointWarAtk": 4,
+    "pointWarRating": "5",
     "star": "Fighter"
   }
 }
