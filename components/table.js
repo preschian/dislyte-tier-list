@@ -14,13 +14,12 @@ const columns = [
 
       return (
         <>
-          <Image
-            style={{ marginRight: 8 }}
-            src={esper.image}
-            alt={esper.name}
-            height={40}
-          />
-          <p>{esper.name}</p>
+          <div style={{ marginRight: 8 }}>
+            <Image src={esper.image} alt={esper.name} height={40} width={40} />
+          </div>
+
+          {/* remove text between parentheses https://regex101.com/r/ZgviKX/1 */}
+          <p>{esper.name.replace(/ *\([^)]*\) */g, "")}</p>
         </>
       );
     },
